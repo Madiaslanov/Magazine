@@ -1153,7 +1153,7 @@ footer .copyright{
     line-height: 20px;
   }
 }
-@media (max-width: 399px) {
+@media (max-width: 477px) {
   #contact-details {
     display: block;
 }
